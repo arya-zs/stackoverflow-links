@@ -1,6 +1,6 @@
 # StackOverflow Links
 
-1. SQL
+## 1. Redshift/SQL
 
 |No.|Question|Link|
 |---|--------|----|
